@@ -2,7 +2,7 @@
 
 ### Project Screenshot
 
-![App Screenshot](https://i.ibb.co/3sS7Y4D/App-Screenshoot.png)
+<img src="./Screenshoot/Screenshoot.png" width="500" alt="App Screenshot">
 
 This is a simple single-page application for a Product Management system built with just HTML, CSS, and vanilla JavaScript. You can use it to add new products, view them, update their details, or delete them.
 
